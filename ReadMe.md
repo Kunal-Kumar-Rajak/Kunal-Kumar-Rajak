@@ -6,7 +6,7 @@
 
 <p align="center">
 Computer Science & Engineering student<br/>
-Building practical web projects and AI-based voice systems
+Building practical web apps and AI-powered voice systems
 </p>
 
 <div align="center">
@@ -26,16 +26,21 @@ Focused on front-end development with Vanilla JavaScript and AI voice agents usi
 
 ## Focus
 - Front-end development (HTML, CSS, JavaScript)
+- Progressive Web Apps (offline-first experience)
 - AI Voice Agents (STT, TTS, conversational workflows)
-- Project-driven learning
 
 ## Selected Work
 - **AI Voice Agents – Murf AI (10-Day Challenge)**  
-  Built 10 AI voice agents using real-time speech-to-text, text-to-speech, and structured conversational logic.
+  Built 10 AI voice agents with real-time speech-to-text and text-to-speech logic.
+
+- **Pro Expense Tracker (PWA)**  
+  Progressive Web App for tracking daily expenses with offline support and local data persistence.  
+  🔗 Live: https://expense-tracker-by-kunal-kumar-dev.netlify.app/
 
 - **Kanban Pro v1**  
   Trello-style Kanban board built with pure HTML, CSS, and JavaScript.  
-  Drag & drop tasks, state-driven UI, LocalStorage persistence.
+  Drag & drop tasks, state-driven UI, LocalStorage persistence.  
+  🔗 Live: https://kanban-pro-v1.netlify.app/
 
 ## Links
 - Portfolio: https://kunal-kumar-dev-portfolio.netlify.app  
