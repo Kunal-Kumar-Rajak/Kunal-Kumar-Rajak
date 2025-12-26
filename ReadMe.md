@@ -1,29 +1,50 @@
-# 💫 About Me:
-## Hi, I'm Kunal Kumar 👋  <br><br>Computer Science & Engineering student with hands-on experience in AI-based projects, front-end web development, and real-world internships. I enjoy building practical solutions, learning by doing, and improving my fundamentals through projects.<br><br>---<br><br>### 👨‍🎓 Education<br>- **B.Tech (Lateral Entry) – Computer Science & Engineering**  <br>  Bhagalpur College of Engineering (2025–2028, Pursuing)<br>- **Diploma – Computer Science & Engineering**  <br>  Government Polytechnic Saharsa (2022–2025) <br><br>---<br><br>### 💻 Technical Skills<br>- **Languages:** Python, JavaScript, C, C++ (Basics)  <br>- **Web:** HTML, CSS, Front-End Development  <br>- **AI / Voice:** AI Voice Agents, STT & TTS Integration, Conversational Flow  <br>- **Databases:** SQL (Basic)  <br>- **Tools:** Git, GitHub, VS Code  <br><br>---<br><br>### 🚀 Projects<br>
-- **AI Voice Agents – 10 Days Challenge (Murf AI)**<br>
-Built AI voice agents using real-time speech-to-text, text-to-speech, and conversational workflows.<br>
-👉 GitHub repo available with documented code.<br><br>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+</div>
 
-- **Kanban Pro v1 – Vanilla JavaScript Kanban Board**<br>
-Built a Trello-style Kanban board using pure HTML, CSS, and JavaScript with state-driven UI, drag-and-drop task management, and localStorage persistence.<br>
-👉 Live demo and GitHub repo available with clean, modular code.
- **Front-End Web Development Projects**  <br>  Developed responsive web pages and completed real project assignments during internships.<br><br>---<br><br>### 🏢 Internships & Training<br>- **Web Design & Development Intern – Cadezone Services Pvt. Ltd.** (6 Weeks, Grade A)  <br>- **Front-End Web Development Intern – Vidyayan Eduventure Pvt. Ltd.** (4 Weeks)<br><br>---<br><br>### 📜 Certifications<br>- AI Voice Agents Challenge – Murf AI  <br>- Cybersecurity Skilling Program – IIT Kanpur (C3iHub)  <br>- Web Design & Development – Cadezone Services  <br>- Front-End Web Development – Vidyayan Eduventure  <br><br>---<br><br>### 🔗 Connect With Me<br>- 🌐 Portfolio: https://kunal-kumar-dev-portfolio.netlify.app/  <br>- 💼 LinkedIn: https://www.linkedin.com/in/kunal-kumar-dev/  <br>- 💻 GitHub: https://github.com/kunal-kumar-dev  <br>- 📊 Kaggle: https://www.kaggle.com/kkrrajak <br>- 📝Resume: https://drive.google.com/file/d/1PYxY9PIbRZTr7eavGW490qBADjwqikhp/view?usp=drive_link<br><br>---<br><br>⭐ Always learning. Always building.<br>
+<h1 align="center">Kunal Kumar</h1>
 
+<p align="center">
+Computer Science & Engineering student<br/>
+Building practical web projects and AI-based voice systems
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100053918793091&amp;mibextid=ZbWKwL) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kunal-kumar-rajak/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/KunalKumarRajak) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/kunal_kr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thetechkunal@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kunal-Kumar-Rajak&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Kunal-Kumar-Rajak&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal-Kumar-Rajak&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Kunal-Kumar-Rajak&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <a href="https://github.com/kunal-kumar-dev">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" height="25"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kunal-kumar-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
+  </a>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kunal-Kumar-Rajak&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About
+I learn by building.  
+Focused on front-end development with Vanilla JavaScript and AI voice agents using real-world APIs.
+
+## Focus
+- Front-end development (HTML, CSS, JavaScript)
+- AI Voice Agents (STT, TTS, conversational workflows)
+- Project-driven learning
+
+## Selected Work
+- **AI Voice Agents – Murf AI (10-Day Challenge)**  
+  Built 10 AI voice agents using real-time speech-to-text, text-to-speech, and structured conversational logic.
+
+- **Kanban Pro v1**  
+  Trello-style Kanban board built with pure HTML, CSS, and JavaScript.  
+  Drag & drop tasks, state-driven UI, LocalStorage persistence.
+
+## Links
+- Portfolio: https://kunal-kumar-dev-portfolio.netlify.app  
+- GitHub: https://github.com/kunal-kumar-dev  
+- LinkedIn: https://www.linkedin.com/in/kunal-kumar-dev/  
+- Email: thetechkunal@gmail.com
+
+---
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=kunal-kumar-dev&theme=dark&border_radius=5" height="150"/>
+</div>
