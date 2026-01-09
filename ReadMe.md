@@ -35,15 +35,13 @@ Focused on front-end development with Vanilla JavaScript and AI voice agents usi
 
 - **Pro Expense Tracker (PWA)**  
   Progressive Web App for tracking daily expenses with offline support and local data persistence.  
-  🔗 Live: https://expense-tracker-by-kunal-kumar-dev.netlify.app/
 
 - **Kanban Pro v1**  
   Trello-style Kanban board built with pure HTML, CSS, and JavaScript.  
   Drag & drop tasks, state-driven UI, LocalStorage persistence.  
-  🔗 Live: https://kanban-pro-v1.netlify.app/
 
 ## Links
-- Portfolio: https://kunal-kumar-dev-portfolio.netlify.app  
+- Portfolio: https://kunal-kumar-dev-portfolio.netlify.app/  
 - GitHub: https://github.com/kunal-kumar-dev  
 - LinkedIn: https://www.linkedin.com/in/kunal-kumar-dev/  
 - Email: thetechkunal@gmail.com
